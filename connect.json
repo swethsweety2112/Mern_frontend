@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "todo": "swetha",
+      "age": "5",
+      "gender": "F"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

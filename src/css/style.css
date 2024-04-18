@@ -1,0 +1,11 @@
+.para{
+    text-align: center;
+   position: fixed;
+    color: yellowgreen;
+    font-size:50px;
+    width:100%;
+    left:0%;
+    top:0%;
+    background-color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
